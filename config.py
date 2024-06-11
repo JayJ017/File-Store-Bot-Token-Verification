@@ -65,7 +65,7 @@ USER_REPLY_TEXT = "ʙᴀᴋᴋᴀ ! ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴍʏ ꜱᴇɴᴘ
 ADMINS.append(OWNER_ID)
 ADMINS.append(1231247732)
 
-LOG_FILE_NAME = "CHOCO.txt"
+LOG_FILE_NAME = "codeflixbot.txt"
 
 logging.basicConfig(
     level=logging.INFO,
